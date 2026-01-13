@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Aryan
 
-<!--
+
 # 💫 About Me:
 🎓 I'm Aryan Sutariya, a Artifical Intelligence and Data Science student .<br><br>💻 I love building projects, exploring new technologies, and improving my problem-solving skills.<br><br>🌱 Currently learning: Machine Learning, DSA & Full Stack Development  <br>🚀 Interested in: Open Source, Hackathons, and building real-world apps  <br>🎯 Goal: Become a strong Software Developer and contribute to impactful projects<br>
 
@@ -20,5 +20,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aryan21-Sutariya&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
